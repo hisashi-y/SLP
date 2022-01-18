@@ -1,0 +1,473 @@
+epoch 1:
+Accuracy is: 0.9255846917080085
+epoch 2:
+Accuracy is: 0.9456059532246633
+epoch 3:
+Accuracy is: 0.9562367115520907
+epoch 4:
+Accuracy is: 0.961020552799433
+epoch 5:
+Accuracy is: 0.9720056697377746
+epoch 6:
+Accuracy is: 0.9715627214741318
+epoch 7:
+Accuracy is: 0.9791814316087881
+epoch 8:
+Accuracy is: 0.979004252303331
+epoch 9:
+Accuracy is: 0.9852055279943303
+epoch 10:
+Accuracy is: 0.9879518072289156
+epoch 11:
+Accuracy is: 0.9868001417434443
+epoch 12:
+Accuracy is: 0.9837880935506733
+epoch 13:
+Accuracy is: 0.9870659107016301
+epoch 14:
+Accuracy is: 0.9922041105598866
+epoch 15:
+Accuracy is: 0.9914953933380581
+epoch 16:
+Accuracy is: 0.9928242381289866
+epoch 17:
+Accuracy is: 0.9929128277817151
+epoch 18:
+Accuracy is: 0.9946846208362863
+epoch 19:
+Accuracy is: 0.9920269312544295
+epoch 20:
+Accuracy is: 0.9952161587526577
+epoch 21:
+Accuracy is: 0.9956591070163004
+epoch 22:
+Accuracy is: 0.9948618001417434
+epoch 23:
+Accuracy is: 0.9942416725726435
+epoch 24:
+Accuracy is: 0.9948618001417434
+epoch 25:
+Accuracy is: 0.9969879518072289
+epoch 26:
+Accuracy is: 0.9961906449326718
+epoch 27:
+Accuracy is: 0.9962792345854005
+epoch 28:
+Accuracy is: 0.9964564138908576
+epoch 29:
+Accuracy is: 0.9968107725017717
+epoch 30:
+Accuracy is: 0.9976080793763289
+epoch 31:
+Accuracy is: 0.9976966690290574
+epoch 32:
+Accuracy is: 0.9975194897236003
+epoch 33:
+Accuracy is: 0.9981396172927002
+epoch 34:
+Accuracy is: 0.9978738483345145
+epoch 35:
+Accuracy is: 0.9983167965981573
+epoch 36:
+Accuracy is: 0.9985825655563431
+epoch 37:
+Accuracy is: 0.9984053862508859
+epoch 38:
+Accuracy is: 0.9992912827781715
+epoch 39:
+Accuracy is: 0.9985825655563431
+epoch 40:
+Accuracy is: 0.9974309000708718
+epoch 41:
+Accuracy is: 0.9975194897236003
+epoch 42:
+Accuracy is: 0.9988483345145287
+epoch 43:
+Accuracy is: 0.9947732104890149
+epoch 44:
+Accuracy is: 0.9978738483345145
+epoch 45:
+Accuracy is: 0.997165131112686
+epoch 46:
+Accuracy is: 0.9981396172927002
+epoch 47:
+Accuracy is: 0.9990255138199858
+epoch 48:
+Accuracy is: 0.9991141034727143
+epoch 49:
+Accuracy is: 0.999202693125443
+epoch 50:
+Accuracy is: 0.9992912827781715
+epoch 51:
+Accuracy is: 0.9991141034727143
+epoch 52:
+Accuracy is: 0.9987597448618002
+epoch 53:
+Accuracy is: 0.9989369241672572
+epoch 54:
+Accuracy is: 0.999202693125443
+epoch 55:
+Accuracy is: 0.9987597448618002
+epoch 56:
+Accuracy is: 0.996367824238129
+epoch 57:
+Accuracy is: 0.9983167965981573
+epoch 58:
+Accuracy is: 0.9999114103472715
+epoch 59:
+Accuracy is: 0.9999114103472715
+epoch 60:
+Accuracy is: 0.9999114103472715
+epoch 61:
+Accuracy is: 0.9999114103472715
+epoch 62:
+Accuracy is: 1.0
+epoch 63:
+Accuracy is: 1.0
+epoch 64:
+Accuracy is: 1.0
+epoch 65:
+Accuracy is: 1.0
+epoch 66:
+Accuracy is: 1.0
+epoch 67:
+Accuracy is: 1.0
+epoch 68:
+Accuracy is: 1.0
+epoch 69:
+Accuracy is: 1.0
+epoch 70:
+Accuracy is: 1.0
+epoch 71:
+Accuracy is: 1.0
+epoch 72:
+Accuracy is: 1.0
+epoch 73:
+Accuracy is: 1.0
+epoch 74:
+Accuracy is: 1.0
+epoch 75:
+Accuracy is: 1.0
+epoch 76:
+Accuracy is: 1.0
+epoch 77:
+Accuracy is: 1.0
+epoch 78:
+Accuracy is: 1.0
+epoch 79:
+Accuracy is: 1.0
+epoch 80:
+Accuracy is: 1.0
+epoch 1:
+Accuracy is: 0.9255846917080085
+epoch 2:
+Accuracy is: 0.9456059532246633
+epoch 3:
+Accuracy is: 0.9562367115520907
+epoch 4:
+Accuracy is: 0.961020552799433
+epoch 5:
+Accuracy is: 0.9720056697377746
+epoch 6:
+Accuracy is: 0.9715627214741318
+epoch 7:
+Accuracy is: 0.9791814316087881
+epoch 8:
+Accuracy is: 0.979004252303331
+epoch 9:
+Accuracy is: 0.9852055279943303
+epoch 10:
+Accuracy is: 0.9879518072289156
+epoch 11:
+Accuracy is: 0.9868001417434443
+epoch 12:
+Accuracy is: 0.9837880935506733
+epoch 13:
+Accuracy is: 0.9870659107016301
+epoch 14:
+Accuracy is: 0.9922041105598866
+epoch 15:
+Accuracy is: 0.9914953933380581
+epoch 16:
+Accuracy is: 0.9928242381289866
+epoch 17:
+Accuracy is: 0.9929128277817151
+epoch 18:
+Accuracy is: 0.9946846208362863
+epoch 19:
+Accuracy is: 0.9920269312544295
+epoch 20:
+Accuracy is: 0.9952161587526577
+epoch 21:
+Accuracy is: 0.9956591070163004
+epoch 22:
+Accuracy is: 0.9948618001417434
+epoch 23:
+Accuracy is: 0.9942416725726435
+epoch 24:
+Accuracy is: 0.9948618001417434
+epoch 25:
+Accuracy is: 0.9969879518072289
+epoch 26:
+Accuracy is: 0.9961906449326718
+epoch 27:
+Accuracy is: 0.9962792345854005
+epoch 28:
+Accuracy is: 0.9964564138908576
+epoch 29:
+Accuracy is: 0.9968107725017717
+epoch 30:
+Accuracy is: 0.9976080793763289
+epoch 31:
+Accuracy is: 0.9976966690290574
+epoch 32:
+Accuracy is: 0.9975194897236003
+epoch 33:
+Accuracy is: 0.9981396172927002
+epoch 34:
+Accuracy is: 0.9978738483345145
+epoch 35:
+Accuracy is: 0.9983167965981573
+epoch 36:
+Accuracy is: 0.9985825655563431
+epoch 37:
+Accuracy is: 0.9984053862508859
+epoch 38:
+Accuracy is: 0.9992912827781715
+epoch 39:
+Accuracy is: 0.9985825655563431
+epoch 40:
+Accuracy is: 0.9974309000708718
+epoch 41:
+Accuracy is: 0.9975194897236003
+epoch 42:
+Accuracy is: 0.9988483345145287
+epoch 43:
+Accuracy is: 0.9947732104890149
+epoch 44:
+Accuracy is: 0.9978738483345145
+epoch 45:
+Accuracy is: 0.997165131112686
+epoch 46:
+Accuracy is: 0.9981396172927002
+epoch 47:
+Accuracy is: 0.9990255138199858
+epoch 48:
+Accuracy is: 0.9991141034727143
+epoch 49:
+Accuracy is: 0.999202693125443
+epoch 50:
+Accuracy is: 0.9992912827781715
+epoch 51:
+Accuracy is: 0.9991141034727143
+epoch 52:
+Accuracy is: 0.9987597448618002
+epoch 53:
+Accuracy is: 0.9989369241672572
+epoch 54:
+Accuracy is: 0.999202693125443
+epoch 55:
+Accuracy is: 0.9987597448618002
+epoch 56:
+Accuracy is: 0.996367824238129
+epoch 57:
+Accuracy is: 0.9983167965981573
+epoch 58:
+Accuracy is: 0.9999114103472715
+epoch 59:
+Accuracy is: 0.9999114103472715
+epoch 60:
+Accuracy is: 0.9999114103472715
+epoch 61:
+Accuracy is: 0.9999114103472715
+epoch 62:
+Accuracy is: 1.0
+epoch 1:
+epoch 1:
+Accuracy is: 0.9255846917080085
+epoch 2:
+Accuracy is: 0.9456059532246633
+epoch 3:
+Accuracy is: 0.9562367115520907
+epoch 1:
+Accuracy is: 0.9255846917080085
+epoch 2:
+Accuracy is: 0.9456059532246633
+epoch 3:
+Accuracy is: 0.9562367115520907
+epoch 1:
+Accuracy is: 0.9255846917080085
+epoch 2:
+Accuracy is: 0.9456059532246633
+epoch 3:
+Accuracy is: 0.9562367115520907
+epoch 1:
+Accuracy is: 0.9255846917080085
+epoch 2:
+Accuracy is: 0.9456059532246633
+epoch 3:
+Accuracy is: 0.9562367115520907
+epoch 1:
+Accuracy is: 0.9255846917080085
+epoch 2:
+Accuracy is: 0.9456059532246633
+epoch 3:
+Accuracy is: 0.9562367115520907
+epoch 1:
+Accuracy is: 0.9255846917080085
+epoch 2:
+Accuracy is: 0.9456059532246633
+epoch 3:
+Accuracy is: 0.9562367115520907
+epoch 1:
+Accuracy is: 0.9255846917080085
+epoch 2:
+Accuracy is: 0.9456059532246633
+epoch 3:
+Accuracy is: 0.9562367115520907
+epoch 1:
+Accuracy is: 0.9255846917080085
+epoch 2:
+Accuracy is: 0.9456059532246633
+epoch 3:
+Accuracy is: 0.9562367115520907
+epoch 1:
+Accuracy is: 0.9255846917080085
+epoch 2:
+Accuracy is: 0.9456059532246633
+epoch 3:
+Accuracy is: 0.9562367115520907
+epoch 4:
+Accuracy is: 0.961020552799433
+epoch 5:
+Accuracy is: 0.9720056697377746
+epoch 6:
+Accuracy is: 0.9715627214741318
+epoch 7:
+Accuracy is: 0.9791814316087881
+epoch 8:
+Accuracy is: 0.979004252303331
+epoch 9:
+Accuracy is: 0.9852055279943303
+epoch 10:
+Accuracy is: 0.9879518072289156
+epoch 11:
+Accuracy is: 0.9868001417434443
+epoch 12:
+Accuracy is: 0.9837880935506733
+epoch 13:
+Accuracy is: 0.9870659107016301
+epoch 14:
+Accuracy is: 0.9922041105598866
+epoch 15:
+Accuracy is: 0.9914953933380581
+epoch 16:
+Accuracy is: 0.9928242381289866
+epoch 17:
+Accuracy is: 0.9929128277817151
+epoch 18:
+Accuracy is: 0.9946846208362863
+epoch 19:
+Accuracy is: 0.9920269312544295
+epoch 20:
+Accuracy is: 0.9952161587526577
+epoch 21:
+Accuracy is: 0.9956591070163004
+epoch 22:
+Accuracy is: 0.9948618001417434
+epoch 23:
+Accuracy is: 0.9942416725726435
+epoch 24:
+Accuracy is: 0.9948618001417434
+epoch 25:
+Accuracy is: 0.9969879518072289
+epoch 26:
+Accuracy is: 0.9961906449326718
+epoch 27:
+Accuracy is: 0.9962792345854005
+epoch 28:
+Accuracy is: 0.9964564138908576
+epoch 29:
+Accuracy is: 0.9968107725017717
+epoch 30:
+Accuracy is: 0.9976080793763289
+epoch 31:
+Accuracy is: 0.9976966690290574
+epoch 32:
+Accuracy is: 0.9975194897236003
+epoch 33:
+Accuracy is: 0.9981396172927002
+epoch 34:
+Accuracy is: 0.9978738483345145
+epoch 35:
+Accuracy is: 0.9983167965981573
+epoch 36:
+Accuracy is: 0.9985825655563431
+epoch 37:
+Accuracy is: 0.9984053862508859
+epoch 38:
+Accuracy is: 0.9992912827781715
+epoch 39:
+Accuracy is: 0.9985825655563431
+epoch 40:
+Accuracy is: 0.9974309000708718
+epoch 41:
+Accuracy is: 0.9975194897236003
+epoch 42:
+Accuracy is: 0.9988483345145287
+epoch 43:
+Accuracy is: 0.9947732104890149
+epoch 44:
+Accuracy is: 0.9978738483345145
+epoch 45:
+Accuracy is: 0.997165131112686
+epoch 46:
+Accuracy is: 0.9981396172927002
+epoch 47:
+Accuracy is: 0.9990255138199858
+epoch 48:
+Accuracy is: 0.9991141034727143
+epoch 49:
+Accuracy is: 0.999202693125443
+epoch 50:
+Accuracy is: 0.9992912827781715
+epoch 51:
+Accuracy is: 0.9991141034727143
+epoch 52:
+Accuracy is: 0.9987597448618002
+epoch 53:
+Accuracy is: 0.9989369241672572
+epoch 54:
+Accuracy is: 0.999202693125443
+epoch 55:
+Accuracy is: 0.9987597448618002
+epoch 56:
+Accuracy is: 0.996367824238129
+epoch 57:
+Accuracy is: 0.9983167965981573
+epoch 58:
+Accuracy is: 0.9999114103472715
+epoch 59:
+Accuracy is: 0.9999114103472715
+epoch 60:
+Accuracy is: 0.9999114103472715
+epoch 61:
+Accuracy is: 0.9999114103472715
+epoch 62:
+Accuracy is: 1.0
+epoch 63:
+Accuracy is: 1.0
+epoch 64:
+Accuracy is: 1.0
+epoch 65:
+Accuracy is: 1.0
+epoch 66:
+Accuracy is: 1.0
+epoch 67:
+Accuracy is: 1.0
+epoch 68:
+Accuracy is: 1.0
+epoch 69:
+Accuracy is: 1.0
+epoch 70:
+Accuracy is: 1.0
