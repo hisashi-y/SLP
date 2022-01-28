@@ -1,7 +1,7 @@
 import json
 
 # 訓練データを読み込む
-with open('/Users/hisashi-y/python codes/SLP/assignment/classification/train.txt', 'r') as f:
+with open('train.txt', 'r') as f:
     train = f.readlines()
 
 def preprocessing(input): # readlinesで読み込んだデータを(文:ラベル)のリストにする

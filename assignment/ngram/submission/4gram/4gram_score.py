@@ -14,8 +14,17 @@ with open('4gram_model.json', 'r') as f:
 with open('trigram_model.json', 'r') as f:
     trigram_model = json.load(f)
 
-correct_sentence = 'Natural language understanding is sometimes referred to as an AI-complete problem'
-incorrect_sentence = 'Natural language understanding are sometimes referred to as a AI-complete problems' # 単複の一致をずらした
+correct_sentence1 = 'Natural language understanding is sometimes referred to as an AI-complete problem'
+incorrect_sentence1 = 'Natural language understanding are sometimes referred to as a AI-complete problems' # 単複の一致をずらした
+
+correct_sentence2 = 'The Association for Computational Linguistics defines the latter as focusing on the theoretical aspects of NLP .'
+incorrect_sentence2 = 'The Association for Computational Vision defining the latter as focusing in the theoretical aspects of NLP .' # 単語の変更、前置詞の変更
+
+correct_sentence3 = 'Little further research in machine translation was conducted until the late 1980s , when the first statistical machine translation systems were developed .'
+incorrect_sentence3 = 'Little further research in machine translation were conducted until the late 1980s , where the first statistical machine translation systems was developed .'
+
+correct_sentences = [correct_sentence1, correct_sentence2, correct_sentence3]
+incorrect_sentences = [incorrect_sentence1, incorrect_sentence2, incorrect_sentence3]
 
 # 評価と結果表示
 def get_score(n, sentence, model1, model2): # model1 = ngram model, model2 = n-1 gram model
@@ -29,6 +38,12 @@ def get_score(n, sentence, model1, model2): # model1 = ngram model, model2 = n-1
         score *= P_2
     return score
 
+for i, j in zip(correct_sentences, incorrect_sentences):
+    print('Correct sentence:', i)
+    print('Score of this correct sentence:', get_score(4, i, fourgram_model, trigram_model))
+    print('Incorrect sentence:', j)
+    print('Score of this incorrect sentence:', get_score(4, j, fourgram_model, trigram_model))
 
-print(get_score(4, correct_sentence, fourgram_model, trigram_model))
-print(get_score(4, incorrect_sentence, fourgram_model, trigram_model)) # incorrect sentenceの方が圧倒的に小さくなった
+
+# print(get_score(4, correct_sentence, fourgram_model, trigram_model))
+# print(get_score(4, incorrect_sentence, fourgram_model, trigram_model))

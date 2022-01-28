@@ -1,0 +1,1 @@
+["IN", "JJ", "NNS", ",", "DT", "NN", "-LRB-", "NN", "-RRB-", "VBZ", "DT", "JJ", "NN", "IN", "JJ", "NN", "NN", ",", "WDT", "VBZ", "DT", "NN", "IN", "VBG", "DT", "NN", "IN", "DT", "NN", "-LRB-", "FW", "NN", "-RRB-", "VBZ", "VBN", "IN", "DT", "NN", ",", "WRB", "DT", "NN", "VBZ", "JJ", "NNS", "-LRB-", "NN", "-RRB-", "."]

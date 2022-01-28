@@ -18,7 +18,7 @@ with open('unigram_model.json', 'r') as f:
     unigram_model = json.load(f)
 
 # テストデータを読み込む
-with open('/Users/hisashi-y/python codes/SLP/assignment/ngram/tutorial/test.txt', 'r') as f:
+with open('test.txt', 'r') as f:
     test = f.readlines()
 
 # 評価と結果表示
